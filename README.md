@@ -22,6 +22,5 @@ Sou Desenvolvedor Full-Stack com 3 anos de experiência em aplicações web e mo
 
 ---
 ## ⭐ GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=njuncoferreira&show_icons=true)
 ---
